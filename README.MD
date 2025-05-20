@@ -4,9 +4,9 @@ A fast and simple way to implement "Sign In With Google" in your PHP application
 `[SimPIL are a series of ultra-simple examples of how to perform different operations with code. Uncomplicated.]`
 
 ## Install
-1.- Follow the steps in config.php to create CLIENT_ID and CLIENT_SECRET
-2.- composer install (to install dependencies)
-3.- Use each .php script as you want in your project
+1. Follow the steps in config.php to create CLIENT_ID and CLIENT_SECRET
+2. composer install (to install dependencies)
+3. Use each .php script as you want in your project
 
 ## Implement
 
