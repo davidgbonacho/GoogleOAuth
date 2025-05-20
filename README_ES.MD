@@ -1,37 +1,22 @@
-# Ejecutar por fecha
-Cómo usar la función `date()` como un interruptor para ejecutar código en tu aplicación.
-
-`[SimPIL son una serie de ejemplos ultra-simples de cómo realizar diferentes operaciones con código. Sin complicaciones.]`
+# Inicio de sesión rápido con Google
+Una forma rápida y sencilla de implementar "Iniciar sesión con Google" en tu aplicación PHP.
+`[SimPIL es una serie de ejemplos ultra-simples de cómo realizar diferentes operaciones con código. Sin complicaciones.]`
 
 ## Instalación
-No es necesario instalar nada, solo mira el código.
+1. Sigue los pasos en config.php para crear CLIENT_ID y CLIENT_SECRET
+2. composer install (para instalar dependencias)
+3. Usa cada script .php como desees en tu proyecto
 
-## Ejecución
-Simplemente usa este código para ejecutar cierto código basado en la fecha actual del servidor:
-
-```php
-
-$exeByDate = false;
-$current_date = strtotime(date("d-m-Y H:i:00",time())); // obtener la fecha actual
-$activation_date = strtotime("15-04-2024 00:06:00"); // establecer la fecha de activación
-
-if($current_date > $activation_date){ // comparar y establecer como verdadero si la fecha actual es mayor que la fecha de activación
-    $exeByDate = true;
-}
-
-if($exeByDate){
-    // tu código aquí
-}
-```
+## Implementación
 
 ## Archivos
-- index.php con este código simple
-- img/logo.svg: solo las imágenes importantes están aquí
+- callback.php (para ser llamado desde Google)
+- config.php (con CLIENT_ID, CLIENT_SECRET y URL de redirección)
+- dashboard.php (es tu página accesible solo para usuarios registrados)
+- img/logo: solo las imágenes importantes están aquí
 
-[Text in English here](README.MD)
-
-
+[Versión en inglés aquí](README.MD)
 ![](img/logo.svg)
 ---
-`título:` ejecutar por fecha [`SimPIL`] 26/12/24\
+`título:` PHP Google Sign-In [`SimPIL`] 20/05/25\
 `autor:` David G. Bonacho &nbsp;&nbsp;  [www.tizedit.com](https://www.tizedit.com)
