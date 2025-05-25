@@ -1,4 +1,4 @@
-# Inicio de sesión rápido con Google
+# Inicio de sesión Google con PHP
 Una forma rápida y sencilla de implementar "Iniciar sesión con Google" en tu aplicación PHP.
 `[SimPIL es una serie de ejemplos ultra-simples de cómo realizar diferentes operaciones con código. Sin complicaciones.]`
 

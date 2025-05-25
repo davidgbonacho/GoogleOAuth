@@ -1,4 +1,4 @@
-# Quick Google Sign-In
+# Google Sign-In with PHP
 A fast and simple way to implement "Sign In With Google" in your PHP application.
 
 `[SimPIL are a series of ultra-simple examples of how to perform different operations with code. Uncomplicated.]`
