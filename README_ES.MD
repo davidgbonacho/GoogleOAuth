@@ -16,6 +16,7 @@ Una forma rápida y sencilla de implementar "Iniciar sesión con Google" en tu a
 - img/logo: solo las imágenes importantes están aquí
 
 [Versión en inglés aquí](README.MD)
+
 ![](img/logo.svg)
 ---
 `título:` PHP Google Sign-In [`SimPIL`] 20/05/25\
