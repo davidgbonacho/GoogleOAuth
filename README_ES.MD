@@ -15,6 +15,8 @@ Una forma rápida y sencilla de implementar "Iniciar sesión con Google" en tu a
 - dashboard.php (es tu página accesible solo para usuarios registrados)
 - img/logo: solo las imágenes importantes están aquí
 
+
+> [!NOTE]
 [Versión en inglés aquí](README.MD)
 
 ![](img/logo.svg)

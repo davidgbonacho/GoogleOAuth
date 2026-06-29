@@ -17,6 +17,8 @@ A fast and simple way to implement "Sign In With Google" in your PHP application
 - dashboard.php (is your only accessible to logged-in users page)
 - img/logo: only important images are here 
 
+
+> [!NOTE]
 [Versión en español aquí](README_ES.MD)
 
 ![](img/logo.svg)
