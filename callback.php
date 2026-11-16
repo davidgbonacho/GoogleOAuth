@@ -42,7 +42,7 @@ if (isset($_GET['code'])) {
     // $googleId = $payload['sub'];
     // $email = $payload['email'];
 
-    // ...and other information
+    // ...and another information
     //   $picture = $payload['picture'];
     //   $surname = $payload['family_name'];
     //   $name = $payload['given_name'];
